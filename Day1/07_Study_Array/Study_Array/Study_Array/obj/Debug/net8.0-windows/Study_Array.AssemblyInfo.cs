@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Study_Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98fc45cc477e18baf27455a19c1266367be286f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Study_Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Study_Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

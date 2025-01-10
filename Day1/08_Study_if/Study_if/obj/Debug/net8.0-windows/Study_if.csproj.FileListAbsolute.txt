@@ -1,0 +1,17 @@
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\bin\Debug\net8.0-windows\Study_if.exe
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\bin\Debug\net8.0-windows\Study_if.deps.json
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\bin\Debug\net8.0-windows\Study_if.runtimeconfig.json
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\bin\Debug\net8.0-windows\Study_if.dll
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\bin\Debug\net8.0-windows\Study_if.pdb
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\obj\Debug\net8.0-windows\Study_if.Form1.resources
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\obj\Debug\net8.0-windows\Study_if.csproj.GenerateResource.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\obj\Debug\net8.0-windows\Study_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\obj\Debug\net8.0-windows\Study_if.AssemblyInfoInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\obj\Debug\net8.0-windows\Study_if.AssemblyInfo.cs
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\obj\Debug\net8.0-windows\Study_if.csproj.CoreCompileInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\obj\Debug\net8.0-windows\Study_if.sourcelink.json
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\obj\Debug\net8.0-windows\Study_if.dll
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\obj\Debug\net8.0-windows\refint\Study_if.dll
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\obj\Debug\net8.0-windows\Study_if.pdb
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\obj\Debug\net8.0-windows\Study_if.genruntimeconfig.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\08_Study_if\Study_if\obj\Debug\net8.0-windows\ref\Study_if.dll

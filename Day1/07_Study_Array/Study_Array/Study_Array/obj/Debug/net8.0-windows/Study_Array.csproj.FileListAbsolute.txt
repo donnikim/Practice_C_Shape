@@ -14,3 +14,4 @@ C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\
 C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\Study_Array.pdb
 C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\Study_Array.genruntimeconfig.cache
 C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\ref\Study_Array.dll
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\Study_Array.sourcelink.json
