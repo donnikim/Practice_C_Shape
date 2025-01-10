@@ -1,0 +1,16 @@
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\bin\Debug\net8.0-windows\Study_Array.exe
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\bin\Debug\net8.0-windows\Study_Array.deps.json
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\bin\Debug\net8.0-windows\Study_Array.runtimeconfig.json
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\bin\Debug\net8.0-windows\Study_Array.dll
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\bin\Debug\net8.0-windows\Study_Array.pdb
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\Study_Array.Form1.resources
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\Study_Array.csproj.GenerateResource.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\Study_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\Study_Array.AssemblyInfoInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\Study_Array.AssemblyInfo.cs
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\Study_Array.csproj.CoreCompileInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\Study_Array.dll
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\refint\Study_Array.dll
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\Study_Array.pdb
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\Study_Array.genruntimeconfig.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\07_Study_Array\Study_Array\Study_Array\obj\Debug\net8.0-windows\ref\Study_Array.dll

@@ -1,0 +1,16 @@
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\bin\Debug\net8.0-windows\Study_Operator.exe
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\bin\Debug\net8.0-windows\Study_Operator.deps.json
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\bin\Debug\net8.0-windows\Study_Operator.runtimeconfig.json
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\bin\Debug\net8.0-windows\Study_Operator.dll
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\bin\Debug\net8.0-windows\Study_Operator.pdb
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\obj\Debug\net8.0-windows\Study_Operator.Form1.resources
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\obj\Debug\net8.0-windows\Study_Operator.csproj.GenerateResource.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\obj\Debug\net8.0-windows\Study_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\obj\Debug\net8.0-windows\Study_Operator.AssemblyInfoInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\obj\Debug\net8.0-windows\Study_Operator.AssemblyInfo.cs
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\obj\Debug\net8.0-windows\Study_Operator.csproj.CoreCompileInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\obj\Debug\net8.0-windows\Study_Operator.dll
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\obj\Debug\net8.0-windows\refint\Study_Operator.dll
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\obj\Debug\net8.0-windows\Study_Operator.pdb
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\obj\Debug\net8.0-windows\Study_Operator.genruntimeconfig.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\Study_Operator\Study_Operator\obj\Debug\net8.0-windows\ref\Study_Operator.dll

@@ -1,0 +1,16 @@
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\bin\Debug\net8.0-windows\Study_Enum.exe
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\bin\Debug\net8.0-windows\Study_Enum.deps.json
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\bin\Debug\net8.0-windows\Study_Enum.runtimeconfig.json
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\bin\Debug\net8.0-windows\Study_Enum.dll
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\bin\Debug\net8.0-windows\Study_Enum.pdb
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\obj\Debug\net8.0-windows\Study_Enum.Form1.resources
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\obj\Debug\net8.0-windows\Study_Enum.csproj.GenerateResource.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\obj\Debug\net8.0-windows\Study_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\obj\Debug\net8.0-windows\Study_Enum.AssemblyInfoInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\obj\Debug\net8.0-windows\Study_Enum.AssemblyInfo.cs
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\obj\Debug\net8.0-windows\Study_Enum.csproj.CoreCompileInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\obj\Debug\net8.0-windows\Study_Enum.dll
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\obj\Debug\net8.0-windows\refint\Study_Enum.dll
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\obj\Debug\net8.0-windows\Study_Enum.pdb
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\obj\Debug\net8.0-windows\Study_Enum.genruntimeconfig.cache
+C:\Users\dongil\Desktop\C#_prac\Day1\06_Study_Enum\Study_Enum\obj\Debug\net8.0-windows\ref\Study_Enum.dll
