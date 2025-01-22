@@ -1,0 +1,17 @@
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\bin\Debug\net8.0-windows\10_Study_while.exe
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\bin\Debug\net8.0-windows\10_Study_while.deps.json
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\bin\Debug\net8.0-windows\10_Study_while.runtimeconfig.json
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\bin\Debug\net8.0-windows\10_Study_while.dll
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\bin\Debug\net8.0-windows\10_Study_while.pdb
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\obj\Debug\net8.0-windows\_10_Study_while.Form1.resources
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\obj\Debug\net8.0-windows\10_Study_while.csproj.GenerateResource.cache
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\obj\Debug\net8.0-windows\10_Study_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\obj\Debug\net8.0-windows\10_Study_while.AssemblyInfoInputs.cache
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\obj\Debug\net8.0-windows\10_Study_while.AssemblyInfo.cs
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\obj\Debug\net8.0-windows\10_Study_while.csproj.CoreCompileInputs.cache
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\obj\Debug\net8.0-windows\10_Study_while.sourcelink.json
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\obj\Debug\net8.0-windows\10_Study_while.dll
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\obj\Debug\net8.0-windows\refint\10_Study_while.dll
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\obj\Debug\net8.0-windows\10_Study_while.pdb
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\obj\Debug\net8.0-windows\10_Study_while.genruntimeconfig.cache
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\10_Study_while\obj\Debug\net8.0-windows\ref\10_Study_while.dll

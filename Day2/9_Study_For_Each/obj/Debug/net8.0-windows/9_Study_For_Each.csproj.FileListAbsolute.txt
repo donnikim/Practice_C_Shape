@@ -1,0 +1,17 @@
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\bin\Debug\net8.0-windows\9_Study_For_Each.exe
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\bin\Debug\net8.0-windows\9_Study_For_Each.deps.json
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\bin\Debug\net8.0-windows\9_Study_For_Each.runtimeconfig.json
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\bin\Debug\net8.0-windows\9_Study_For_Each.dll
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\bin\Debug\net8.0-windows\9_Study_For_Each.pdb
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\obj\Debug\net8.0-windows\_9_Study_For_Each.Form1.resources
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\obj\Debug\net8.0-windows\9_Study_For_Each.csproj.GenerateResource.cache
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\obj\Debug\net8.0-windows\9_Study_For_Each.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\obj\Debug\net8.0-windows\9_Study_For_Each.AssemblyInfoInputs.cache
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\obj\Debug\net8.0-windows\9_Study_For_Each.AssemblyInfo.cs
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\obj\Debug\net8.0-windows\9_Study_For_Each.csproj.CoreCompileInputs.cache
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\obj\Debug\net8.0-windows\9_Study_For_Each.sourcelink.json
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\obj\Debug\net8.0-windows\9_Study_For_Each.dll
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\obj\Debug\net8.0-windows\refint\9_Study_For_Each.dll
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\obj\Debug\net8.0-windows\9_Study_For_Each.pdb
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\obj\Debug\net8.0-windows\9_Study_For_Each.genruntimeconfig.cache
+C:\Users\kim\Desktop\prac\Practice_C_Shape\Day2\9_Study_For_Each\obj\Debug\net8.0-windows\ref\9_Study_For_Each.dll
