@@ -1,0 +1,17 @@
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\bin\Debug\net8.0-windows\12_Study_Inheritance.exe
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\bin\Debug\net8.0-windows\12_Study_Inheritance.deps.json
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\bin\Debug\net8.0-windows\12_Study_Inheritance.runtimeconfig.json
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\bin\Debug\net8.0-windows\12_Study_Inheritance.dll
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\bin\Debug\net8.0-windows\12_Study_Inheritance.pdb
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\obj\Debug\net8.0-windows\_12_Study_Inheritance.Form1.resources
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\obj\Debug\net8.0-windows\12_Study_Inheritance.csproj.GenerateResource.cache
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\obj\Debug\net8.0-windows\12_Study_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\obj\Debug\net8.0-windows\12_Study_Inheritance.AssemblyInfoInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\obj\Debug\net8.0-windows\12_Study_Inheritance.AssemblyInfo.cs
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\obj\Debug\net8.0-windows\12_Study_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\obj\Debug\net8.0-windows\12_Study_Inheritance.sourcelink.json
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\obj\Debug\net8.0-windows\12_Study_Inheritance.dll
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\obj\Debug\net8.0-windows\refint\12_Study_Inheritance.dll
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\obj\Debug\net8.0-windows\12_Study_Inheritance.pdb
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\obj\Debug\net8.0-windows\12_Study_Inheritance.genruntimeconfig.cache
+C:\Users\dongil\Desktop\C#_prac\Day3\12_Study_Inheritance\obj\Debug\net8.0-windows\ref\12_Study_Inheritance.dll

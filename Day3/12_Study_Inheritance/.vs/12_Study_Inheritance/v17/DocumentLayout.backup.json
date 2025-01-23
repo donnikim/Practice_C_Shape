@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day3\\12_Study_Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF4E8BB-95FB-483D-82D2-555B3C6732AF}|12_Study_Inheritance.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day3\\12_study_inheritance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF4E8BB-95FB-483D-82D2-555B3C6732AF}|12_Study_Inheritance.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF4E8BB-95FB-483D-82D2-555B3C6732AF}|12_Study_Inheritance.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day3\\12_study_inheritance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEF4E8BB-95FB-483D-82D2-555B3C6732AF}|12_Study_Inheritance.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF4E8BB-95FB-483D-82D2-555B3C6732AF}|12_Study_Inheritance.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day3\\12_study_inheritance\\conecycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF4E8BB-95FB-483D-82D2-555B3C6732AF}|12_Study_Inheritance.csproj|solutionrelative:conecycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF4E8BB-95FB-483D-82D2-555B3C6732AF}|12_Study_Inheritance.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day3\\12_study_inheritance\\cbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF4E8BB-95FB-483D-82D2-555B3C6732AF}|12_Study_Inheritance.csproj|solutionrelative:cbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF4E8BB-95FB-483D-82D2-555B3C6732AF}|12_Study_Inheritance.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day3\\12_study_inheritance\\ccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF4E8BB-95FB-483D-82D2-555B3C6732AF}|12_Study_Inheritance.csproj|solutionrelative:ccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF4E8BB-95FB-483D-82D2-555B3C6732AF}|12_Study_Inheritance.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day3\\12_study_inheritance\\ccycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF4E8BB-95FB-483D-82D2-555B3C6732AF}|12_Study_Inheritance.csproj|solutionrelative:ccycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CCar.cs",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day3\\12_Study_Inheritance\\CCar.cs",
+              "RelativeDocumentMoniker": "CCar.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day3\\12_Study_Inheritance\\CCar.cs",
+              "RelativeToolTip": "CCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:00:45.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CCycle.cs",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day3\\12_Study_Inheritance\\CCycle.cs",
+              "RelativeDocumentMoniker": "CCycle.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day3\\12_Study_Inheritance\\CCycle.cs",
+              "RelativeToolTip": "CCycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:29:39.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "COneCycle.cs",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day3\\12_Study_Inheritance\\COneCycle.cs",
+              "RelativeDocumentMoniker": "COneCycle.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day3\\12_Study_Inheritance\\COneCycle.cs",
+              "RelativeToolTip": "COneCycle.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:52:21.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CBase.cs",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day3\\12_Study_Inheritance\\CBase.cs",
+              "RelativeDocumentMoniker": "CBase.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day3\\12_Study_Inheritance\\CBase.cs",
+              "RelativeToolTip": "CBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:47:28.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day3\\12_Study_Inheritance\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day3\\12_Study_Inheritance\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwEAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:38:52.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day3\\12_Study_Inheritance\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day3\\12_Study_Inheritance\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:33:19.44Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

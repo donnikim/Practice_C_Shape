@@ -24,7 +24,6 @@ namespace _10_Study_while
 
             while (Array.IndexOf(iArr, 0) != -1)
             {
-
                 //1<= i <46
                 int iNumber = rd.Next(1, 46);
 
