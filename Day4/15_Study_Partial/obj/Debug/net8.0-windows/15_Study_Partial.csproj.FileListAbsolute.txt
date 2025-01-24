@@ -1,0 +1,17 @@
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\bin\Debug\net8.0-windows\15_Study_Partial.exe
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\bin\Debug\net8.0-windows\15_Study_Partial.deps.json
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\bin\Debug\net8.0-windows\15_Study_Partial.runtimeconfig.json
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\bin\Debug\net8.0-windows\15_Study_Partial.dll
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\bin\Debug\net8.0-windows\15_Study_Partial.pdb
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\obj\Debug\net8.0-windows\_15_Study_Partial.Form1.resources
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\obj\Debug\net8.0-windows\15_Study_Partial.csproj.GenerateResource.cache
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\obj\Debug\net8.0-windows\15_Study_Partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\obj\Debug\net8.0-windows\15_Study_Partial.AssemblyInfoInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\obj\Debug\net8.0-windows\15_Study_Partial.AssemblyInfo.cs
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\obj\Debug\net8.0-windows\15_Study_Partial.csproj.CoreCompileInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\obj\Debug\net8.0-windows\15_Study_Partial.sourcelink.json
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\obj\Debug\net8.0-windows\15_Study_Partial.dll
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\obj\Debug\net8.0-windows\refint\15_Study_Partial.dll
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\obj\Debug\net8.0-windows\15_Study_Partial.pdb
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\obj\Debug\net8.0-windows\15_Study_Partial.genruntimeconfig.cache
+C:\Users\dongil\Desktop\C#_prac\Day4\15_Study_Partial\obj\Debug\net8.0-windows\ref\15_Study_Partial.dll

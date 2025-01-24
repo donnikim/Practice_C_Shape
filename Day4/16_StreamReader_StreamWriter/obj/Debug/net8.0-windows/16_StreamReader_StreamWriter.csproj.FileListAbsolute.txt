@@ -1,0 +1,17 @@
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\bin\Debug\net8.0-windows\16_StreamReader_StreamWriter.exe
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\bin\Debug\net8.0-windows\16_StreamReader_StreamWriter.deps.json
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\bin\Debug\net8.0-windows\16_StreamReader_StreamWriter.runtimeconfig.json
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\bin\Debug\net8.0-windows\16_StreamReader_StreamWriter.dll
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\bin\Debug\net8.0-windows\16_StreamReader_StreamWriter.pdb
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\obj\Debug\net8.0-windows\_16_StreamReader_StreamWriter.Form1.resources
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\obj\Debug\net8.0-windows\16_StreamReader_StreamWriter.csproj.GenerateResource.cache
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\obj\Debug\net8.0-windows\16_StreamReader_StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\obj\Debug\net8.0-windows\16_StreamReader_StreamWriter.AssemblyInfoInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\obj\Debug\net8.0-windows\16_StreamReader_StreamWriter.AssemblyInfo.cs
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\obj\Debug\net8.0-windows\16_StreamReader_StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\obj\Debug\net8.0-windows\16_StreamReader_StreamWriter.sourcelink.json
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\obj\Debug\net8.0-windows\16_StreamReader_StreamWriter.dll
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\obj\Debug\net8.0-windows\refint\16_StreamReader_StreamWriter.dll
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\obj\Debug\net8.0-windows\16_StreamReader_StreamWriter.pdb
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\obj\Debug\net8.0-windows\16_StreamReader_StreamWriter.genruntimeconfig.cache
+C:\Users\dongil\Desktop\C#_prac\Day4\16_StreamReader_StreamWriter\obj\Debug\net8.0-windows\ref\16_StreamReader_StreamWriter.dll
