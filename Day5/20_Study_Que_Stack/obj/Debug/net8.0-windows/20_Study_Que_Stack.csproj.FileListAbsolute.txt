@@ -1,0 +1,17 @@
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\obj\Debug\net8.0-windows\_20_Study_Que_Stack.Form1.resources
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\obj\Debug\net8.0-windows\20_Study_Que_Stack.csproj.GenerateResource.cache
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\obj\Debug\net8.0-windows\20_Study_Que_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\obj\Debug\net8.0-windows\20_Study_Que_Stack.AssemblyInfoInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\obj\Debug\net8.0-windows\20_Study_Que_Stack.AssemblyInfo.cs
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\obj\Debug\net8.0-windows\20_Study_Que_Stack.csproj.CoreCompileInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\obj\Debug\net8.0-windows\20_Study_Que_Stack.sourcelink.json
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\bin\Debug\net8.0-windows\20_Study_Que_Stack.exe
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\bin\Debug\net8.0-windows\20_Study_Que_Stack.deps.json
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\bin\Debug\net8.0-windows\20_Study_Que_Stack.runtimeconfig.json
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\bin\Debug\net8.0-windows\20_Study_Que_Stack.dll
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\bin\Debug\net8.0-windows\20_Study_Que_Stack.pdb
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\obj\Debug\net8.0-windows\20_Study_Que_Stack.dll
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\obj\Debug\net8.0-windows\refint\20_Study_Que_Stack.dll
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\obj\Debug\net8.0-windows\20_Study_Que_Stack.pdb
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\obj\Debug\net8.0-windows\20_Study_Que_Stack.genruntimeconfig.cache
+C:\Users\dongil\Desktop\C#_prac\Day5\20_Study_Que_Stack\obj\Debug\net8.0-windows\ref\20_Study_Que_Stack.dll

@@ -1,0 +1,11 @@
+C:\Users\사용자\source\repos\ListTest\ListTest\bin\Debug\ListTest.exe.config
+C:\Users\사용자\source\repos\ListTest\ListTest\bin\Debug\ListTest.exe
+C:\Users\사용자\source\repos\ListTest\ListTest\bin\Debug\ListTest.pdb
+C:\Users\사용자\source\repos\ListTest\ListTest\obj\Debug\ListTest.csprojResolveAssemblyReference.cache
+C:\Users\사용자\source\repos\ListTest\ListTest\obj\Debug\ListTest.Form1.resources
+C:\Users\사용자\source\repos\ListTest\ListTest\obj\Debug\ListTest.Properties.Resources.resources
+C:\Users\사용자\source\repos\ListTest\ListTest\obj\Debug\ListTest.csproj.GenerateResource.Cache
+C:\Users\사용자\source\repos\ListTest\ListTest\obj\Debug\ListTest.csproj.CoreCompileInputs.cache
+C:\Users\사용자\source\repos\ListTest\ListTest\obj\Debug\ListTest.exe
+C:\Users\사용자\source\repos\ListTest\ListTest\obj\Debug\ListTest.pdb
+C:\Users\사용자\source\repos\ListTest\ListTest\obj\Debug\DictionaryTest.Properties.Resources.resources

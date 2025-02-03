@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day5\\18_Study_Timer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2906A7-24CA-4185-8B16-6A184F2A395F}|18_Study_Timer.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day5\\18_study_timer\\cxmlcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2906A7-24CA-4185-8B16-6A184F2A395F}|18_Study_Timer.csproj|solutionrelative:cxmlcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2906A7-24CA-4185-8B16-6A184F2A395F}|18_Study_Timer.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day5\\18_study_timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2906A7-24CA-4185-8B16-6A184F2A395F}|18_Study_Timer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2906A7-24CA-4185-8B16-6A184F2A395F}|18_Study_Timer.csproj|C:\\Users\\dongil\\Desktop\\C#_prac\\Day5\\18_Study_Timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE2906A7-24CA-4185-8B16-6A184F2A395F}|18_Study_Timer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2906A7-24CA-4185-8B16-6A184F2A395F}|18_Study_Timer.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day5\\18_study_timer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2906A7-24CA-4185-8B16-6A184F2A395F}|18_Study_Timer.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day5\\18_Study_Timer\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day5\\18_Study_Timer\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAIwKIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:25:18.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CXMLControl.cs",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day5\\18_Study_Timer\\CXMLControl.cs",
+              "RelativeDocumentMoniker": "CXMLControl.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day5\\18_Study_Timer\\CXMLControl.cs",
+              "RelativeToolTip": "CXMLControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:03:35.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day5\\18_Study_Timer\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day5\\18_Study_Timer\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T01:00:50.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day5\\18_Study_Timer\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day5\\18_Study_Timer\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T01:00:47.745Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
