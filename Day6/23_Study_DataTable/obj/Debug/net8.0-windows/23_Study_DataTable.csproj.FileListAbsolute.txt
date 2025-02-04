@@ -1,0 +1,17 @@
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\bin\Debug\net8.0-windows\23_Study_DataTable.exe
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\bin\Debug\net8.0-windows\23_Study_DataTable.deps.json
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\bin\Debug\net8.0-windows\23_Study_DataTable.runtimeconfig.json
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\bin\Debug\net8.0-windows\23_Study_DataTable.dll
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\bin\Debug\net8.0-windows\23_Study_DataTable.pdb
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\obj\Debug\net8.0-windows\_23_Study_DataTable.Form1.resources
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\obj\Debug\net8.0-windows\23_Study_DataTable.csproj.GenerateResource.cache
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\obj\Debug\net8.0-windows\23_Study_DataTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\obj\Debug\net8.0-windows\23_Study_DataTable.AssemblyInfoInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\obj\Debug\net8.0-windows\23_Study_DataTable.AssemblyInfo.cs
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\obj\Debug\net8.0-windows\23_Study_DataTable.csproj.CoreCompileInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\obj\Debug\net8.0-windows\23_Study_DataTable.sourcelink.json
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\obj\Debug\net8.0-windows\23_Study_DataTable.dll
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\obj\Debug\net8.0-windows\refint\23_Study_DataTable.dll
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\obj\Debug\net8.0-windows\23_Study_DataTable.pdb
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\obj\Debug\net8.0-windows\23_Study_DataTable.genruntimeconfig.cache
+C:\Users\dongil\Desktop\C#_prac\Day6\23_Study_DataTable\obj\Debug\net8.0-windows\ref\23_Study_DataTable.dll

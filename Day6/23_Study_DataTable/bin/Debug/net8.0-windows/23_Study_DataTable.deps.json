@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "23_Study_DataTable/1.0.0": {
+        "runtime": {
+          "23_Study_DataTable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23_Study_DataTable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
