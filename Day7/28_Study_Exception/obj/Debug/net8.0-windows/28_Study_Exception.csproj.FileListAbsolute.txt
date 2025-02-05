@@ -1,0 +1,17 @@
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\bin\Debug\net8.0-windows\28_Study_Exception.exe
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\bin\Debug\net8.0-windows\28_Study_Exception.deps.json
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\bin\Debug\net8.0-windows\28_Study_Exception.runtimeconfig.json
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\bin\Debug\net8.0-windows\28_Study_Exception.dll
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\bin\Debug\net8.0-windows\28_Study_Exception.pdb
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\obj\Debug\net8.0-windows\_28_Study_Exception.Form1.resources
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\obj\Debug\net8.0-windows\28_Study_Exception.csproj.GenerateResource.cache
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\obj\Debug\net8.0-windows\28_Study_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\obj\Debug\net8.0-windows\28_Study_Exception.AssemblyInfoInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\obj\Debug\net8.0-windows\28_Study_Exception.AssemblyInfo.cs
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\obj\Debug\net8.0-windows\28_Study_Exception.csproj.CoreCompileInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\obj\Debug\net8.0-windows\28_Study_Exception.sourcelink.json
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\obj\Debug\net8.0-windows\28_Study_Exception.dll
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\obj\Debug\net8.0-windows\refint\28_Study_Exception.dll
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\obj\Debug\net8.0-windows\28_Study_Exception.pdb
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\obj\Debug\net8.0-windows\28_Study_Exception.genruntimeconfig.cache
+C:\Users\dongil\Desktop\C#_prac\Day7\28_Study_Exception\obj\Debug\net8.0-windows\ref\28_Study_Exception.dll

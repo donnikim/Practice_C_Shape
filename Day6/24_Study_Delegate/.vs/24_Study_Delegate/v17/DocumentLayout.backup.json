@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{3F47FC0F-7AF8-4175-AA2A-ECBDC179158C}|24_Study_Delegate.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F47FC0F-7AF8-4175-AA2A-ECBDC179158C}|24_Study_Delegate.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day6\\24_study_delegate\\frmpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3F47FC0F-7AF8-4175-AA2A-ECBDC179158C}|24_Study_Delegate.csproj|C:\\Users\\dongil\\Desktop\\C#_prac\\Day6\\24_Study_Delegate\\frmpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3F47FC0F-7AF8-4175-AA2A-ECBDC179158C}|24_Study_Delegate.csproj|solutionrelative:frmpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{3F47FC0F-7AF8-4175-AA2A-ECBDC179158C}|24_Study_Delegate.csproj|solutionrelative:frmpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F47FC0F-7AF8-4175-AA2A-ECBDC179158C}|24_Study_Delegate.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day6\\24_study_delegate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3F47FC0F-7AF8-4175-AA2A-ECBDC179158C}|24_Study_Delegate.csproj|C:\\Users\\dongil\\Desktop\\C#_prac\\Day6\\24_Study_Delegate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3F47FC0F-7AF8-4175-AA2A-ECBDC179158C}|24_Study_Delegate.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -50,8 +50,7 @@
               "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day6\\24_Study_Delegate\\FrmPizza.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "FrmPizza.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T05:15:17.489Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-02-04T05:15:17.489Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day6\\24_Study_Delegate\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAMAAAAAAAAAAAAAswNIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T02:33:30.232Z",
               "EditorCaption": ""
@@ -75,8 +74,7 @@
               "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day6\\24_Study_Delegate\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T02:21:24.649Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-02-04T02:21:24.649Z"
             }
           ]
         }
