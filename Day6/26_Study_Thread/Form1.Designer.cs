@@ -1,4 +1,5 @@
-﻿namespace _26_Study_Thread
+﻿
+namespace _26_Study_Thread
 {
     partial class Form1
     {
@@ -101,6 +102,7 @@
             groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)numPlayerCount).EndInit();
             ResumeLayout(false);
+            FormClosing += Form1_FormCloing;
         }
 
         #endregion
