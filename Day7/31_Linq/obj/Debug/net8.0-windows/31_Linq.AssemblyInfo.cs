@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("29_User_Control")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("31_Linq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef924bea7a6421bc127a7c8ce0f4e2d7851644fc")]
-[assembly: System.Reflection.AssemblyProductAttribute("29_User_Control")]
-[assembly: System.Reflection.AssemblyTitleAttribute("29_User_Control")]
+[assembly: System.Reflection.AssemblyProductAttribute("31_Linq")]
+[assembly: System.Reflection.AssemblyTitleAttribute("31_Linq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{292FB2CF-EE42-4B0E-9DFF-EB2F0F29C575}|29_User_Control.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292FB2CF-EE42-4B0E-9DFF-EB2F0F29C575}|29_User_Control.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day7\\29_user_control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{292FB2CF-EE42-4B0E-9DFF-EB2F0F29C575}|29_User_Control.csproj|C:\\Users\\dongil\\Desktop\\C#_prac\\Day7\\29_User_Control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{292FB2CF-EE42-4B0E-9DFF-EB2F0F29C575}|29_User_Control.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -59,8 +59,7 @@
               "RelativeToolTip": "29_User_Control.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-05T05:49:50.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T05:49:50.86Z"
             },
             {
               "$type": "Document",
@@ -85,8 +84,7 @@
               "RelativeToolTip": "UCInfo.Designer.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAIwHIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T05:31:02.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T05:31:02.633Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day7\\29_User_Control\\UCInfo.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "UCInfo.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T05:30:56.568Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-02-05T05:30:56.568Z"
             },
             {
               "$type": "Document",
@@ -109,8 +106,7 @@
               "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day7\\29_User_Control\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T05:23:44.833Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-02-05T05:23:44.833Z"
             }
           ]
         }

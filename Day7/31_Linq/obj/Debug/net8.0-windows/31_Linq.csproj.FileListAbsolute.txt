@@ -1,0 +1,17 @@
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\bin\Debug\net8.0-windows\31_Linq.exe
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\bin\Debug\net8.0-windows\31_Linq.deps.json
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\bin\Debug\net8.0-windows\31_Linq.runtimeconfig.json
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\bin\Debug\net8.0-windows\31_Linq.dll
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\bin\Debug\net8.0-windows\31_Linq.pdb
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\obj\Debug\net8.0-windows\_31_Linq.Form1.resources
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\obj\Debug\net8.0-windows\31_Linq.csproj.GenerateResource.cache
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\obj\Debug\net8.0-windows\31_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\obj\Debug\net8.0-windows\31_Linq.AssemblyInfoInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\obj\Debug\net8.0-windows\31_Linq.AssemblyInfo.cs
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\obj\Debug\net8.0-windows\31_Linq.csproj.CoreCompileInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\obj\Debug\net8.0-windows\31_Linq.sourcelink.json
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\obj\Debug\net8.0-windows\31_Linq.dll
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\obj\Debug\net8.0-windows\refint\31_Linq.dll
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\obj\Debug\net8.0-windows\31_Linq.pdb
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\obj\Debug\net8.0-windows\31_Linq.genruntimeconfig.cache
+C:\Users\dongil\Desktop\C#_prac\Day7\31_Linq\obj\Debug\net8.0-windows\ref\31_Linq.dll
