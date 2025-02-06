@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE06688-40DA-4F90-91CB-D70E78E68148}|34_Study_Layout_Event.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day8\\34_study_layout_event\\uccolormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE06688-40DA-4F90-91CB-D70E78E68148}|34_Study_Layout_Event.csproj|solutionrelative:uccolormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE06688-40DA-4F90-91CB-D70E78E68148}|34_Study_Layout_Event.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day8\\34_study_layout_event\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FE06688-40DA-4F90-91CB-D70E78E68148}|34_Study_Layout_Event.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE06688-40DA-4F90-91CB-D70E78E68148}|34_Study_Layout_Event.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day8\\34_study_layout_event\\ucpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FE06688-40DA-4F90-91CB-D70E78E68148}|34_Study_Layout_Event.csproj|solutionrelative:ucpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE06688-40DA-4F90-91CB-D70E78E68148}|34_Study_Layout_Event.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day8\\34_study_layout_event\\ucpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE06688-40DA-4F90-91CB-D70E78E68148}|34_Study_Layout_Event.csproj|solutionrelative:ucpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE06688-40DA-4F90-91CB-D70E78E68148}|34_Study_Layout_Event.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day8\\34_study_layout_event\\ucpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE06688-40DA-4F90-91CB-D70E78E68148}|34_Study_Layout_Event.csproj|solutionrelative:ucpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE06688-40DA-4F90-91CB-D70E78E68148}|34_Study_Layout_Event.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day8\\34_study_layout_event\\uccolormenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE06688-40DA-4F90-91CB-D70E78E68148}|34_Study_Layout_Event.csproj|solutionrelative:uccolormenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE06688-40DA-4F90-91CB-D70E78E68148}|34_Study_Layout_Event.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day8\\34_study_layout_event\\uccolormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FE06688-40DA-4F90-91CB-D70E78E68148}|34_Study_Layout_Event.csproj|solutionrelative:uccolormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ucColorMenu.cs",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\ucColorMenu.cs",
+              "RelativeDocumentMoniker": "ucColorMenu.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\ucColorMenu.cs*",
+              "RelativeToolTip": "ucColorMenu.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:34:21.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ucColorMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\ucColorMenu.Designer.cs",
+              "RelativeDocumentMoniker": "ucColorMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\ucColorMenu.Designer.cs",
+              "RelativeToolTip": "ucColorMenu.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwEUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:33:10.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ucColorMenu.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\ucColorMenu.cs",
+              "RelativeDocumentMoniker": "ucColorMenu.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\ucColorMenu.cs [\uB514\uC790\uC778]*",
+              "RelativeToolTip": "ucColorMenu.cs [\uB514\uC790\uC778]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:26:18.328Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ucPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\ucPanel.Designer.cs",
+              "RelativeDocumentMoniker": "ucPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\ucPanel.Designer.cs",
+              "RelativeToolTip": "ucPanel.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwDIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:12:21.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ucPanel.cs",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\ucPanel.cs",
+              "RelativeDocumentMoniker": "ucPanel.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\ucPanel.cs",
+              "RelativeToolTip": "ucPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:12:06.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucPanel.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\ucPanel.cs",
+              "RelativeDocumentMoniker": "ucPanel.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\ucPanel.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "ucPanel.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:10:32.37Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day8\\34_Study_Layout_Event\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:07:01.451Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

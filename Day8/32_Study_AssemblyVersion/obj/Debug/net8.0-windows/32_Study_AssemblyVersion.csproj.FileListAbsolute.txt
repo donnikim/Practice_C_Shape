@@ -1,0 +1,17 @@
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\obj\Debug\net8.0-windows\_32_Study_AssemblyVersion.Form1.resources
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\obj\Debug\net8.0-windows\32_Study_AssemblyVersion.csproj.GenerateResource.cache
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\obj\Debug\net8.0-windows\32_Study_AssemblyVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\obj\Debug\net8.0-windows\32_Study_AssemblyVersion.AssemblyInfoInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\obj\Debug\net8.0-windows\32_Study_AssemblyVersion.AssemblyInfo.cs
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\obj\Debug\net8.0-windows\32_Study_AssemblyVersion.csproj.CoreCompileInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\obj\Debug\net8.0-windows\32_Study_AssemblyVersion.sourcelink.json
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\bin\Debug\net8.0-windows\32_Study_AssemblyVersion.exe
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\bin\Debug\net8.0-windows\32_Study_AssemblyVersion.deps.json
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\bin\Debug\net8.0-windows\32_Study_AssemblyVersion.runtimeconfig.json
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\bin\Debug\net8.0-windows\32_Study_AssemblyVersion.dll
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\bin\Debug\net8.0-windows\32_Study_AssemblyVersion.pdb
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\obj\Debug\net8.0-windows\32_Study_AssemblyVersion.dll
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\obj\Debug\net8.0-windows\refint\32_Study_AssemblyVersion.dll
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\obj\Debug\net8.0-windows\32_Study_AssemblyVersion.pdb
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\obj\Debug\net8.0-windows\32_Study_AssemblyVersion.genruntimeconfig.cache
+C:\Users\dongil\Desktop\C#_prac\Day8\32_Study_AssemblyVersion\obj\Debug\net8.0-windows\ref\32_Study_AssemblyVersion.dll

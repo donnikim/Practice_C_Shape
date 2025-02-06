@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "34_Study_Layout_Event/1.0.0": {
+        "runtime": {
+          "34_Study_Layout_Event.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "34_Study_Layout_Event/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
