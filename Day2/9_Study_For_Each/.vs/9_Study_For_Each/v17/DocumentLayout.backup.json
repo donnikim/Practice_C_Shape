@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kim\\Desktop\\prac\\Practice_C_Shape\\Day2\\9_Study_For_Each\\",
+  "WorkspaceRootPath": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day2\\9_Study_For_Each\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E92417BC-8E88-42DE-BC6A-D565C7D40413}|9_Study_For_Each.csproj|c:\\users\\kim\\desktop\\prac\\practice_c_shape\\day2\\9_study_for_each\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E92417BC-8E88-42DE-BC6A-D565C7D40413}|9_Study_For_Each.csproj|c:\\users\\dongil\\desktop\\c#_prac\\day2\\9_study_for_each\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E92417BC-8E88-42DE-BC6A-D565C7D40413}|9_Study_For_Each.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E92417BC-8E88-42DE-BC6A-D565C7D40413}|9_Study_For_Each.csproj|c:\\users\\kim\\desktop\\prac\\practice_c_shape\\day2\\9_study_for_each\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E92417BC-8E88-42DE-BC6A-D565C7D40413}|9_Study_For_Each.csproj|C:\\Users\\dongil\\Desktop\\C#_prac\\Day2\\9_Study_For_Each\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E92417BC-8E88-42DE-BC6A-D565C7D40413}|9_Study_For_Each.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\prac\\Practice_C_Shape\\Day2\\9_Study_For_Each\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day2\\9_Study_For_Each\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\kim\\Desktop\\prac\\Practice_C_Shape\\Day2\\9_Study_For_Each\\Form1.cs",
+              "ToolTip": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day2\\9_Study_For_Each\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T01:54:36.441Z",
               "EditorCaption": ""
@@ -37,13 +41,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\prac\\Practice_C_Shape\\Day2\\9_Study_For_Each\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day2\\9_Study_For_Each\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\kim\\Desktop\\prac\\Practice_C_Shape\\Day2\\9_Study_For_Each\\Form1.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\kim\\Desktop\\prac\\Practice_C_Shape\\Day2\\9_Study_For_Each\\Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T01:43:21.822Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-01-22T01:43:21.822Z"
             }
           ]
         }

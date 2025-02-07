@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("34_Study_Layout_Event")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce8918e79998a363d62596b38280725cd107ceb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a829843fc30c64e00a3236b750885d508653b93")]
 [assembly: System.Reflection.AssemblyProductAttribute("34_Study_Layout_Event")]
 [assembly: System.Reflection.AssemblyTitleAttribute("34_Study_Layout_Event")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

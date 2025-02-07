@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\06_Study_Enum\\Study_Enum\\Study_Enum.csproj",
+      "projectUniqueName": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\05_Study_Enum\\Study_Enum\\Study_Enum.csproj",
       "projectName": "Study_Enum",
-      "projectPath": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\06_Study_Enum\\Study_Enum\\Study_Enum.csproj",
+      "projectPath": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\05_Study_Enum\\Study_Enum\\Study_Enum.csproj",
       "packagesPath": "C:\\Users\\dongil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\06_Study_Enum\\Study_Enum\\obj\\",
+      "outputPath": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\05_Study_Enum\\Study_Enum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

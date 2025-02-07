@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\Study_DataType\\Study_DataType\\Study_DataType.csproj": {}
+    "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\02_Study_DataType\\Study_DataType\\Study_DataType.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\Study_DataType\\Study_DataType\\Study_DataType.csproj": {
+    "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\02_Study_DataType\\Study_DataType\\Study_DataType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\Study_DataType\\Study_DataType\\Study_DataType.csproj",
+        "projectUniqueName": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\02_Study_DataType\\Study_DataType\\Study_DataType.csproj",
         "projectName": "Study_DataType",
-        "projectPath": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\Study_DataType\\Study_DataType\\Study_DataType.csproj",
+        "projectPath": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\02_Study_DataType\\Study_DataType\\Study_DataType.csproj",
         "packagesPath": "C:\\Users\\dongil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\Study_DataType\\Study_DataType\\obj\\",
+        "outputPath": "C:\\Users\\dongil\\Desktop\\C#_prac\\Day1\\02_Study_DataType\\Study_DataType\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

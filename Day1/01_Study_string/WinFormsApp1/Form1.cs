@@ -17,6 +17,7 @@ namespace WinFormsApp1
 
             lblLength.Text = strText.Length.ToString();
 
+
             lblReplace.Text = strText.Replace("Test","I Can").ToString();
 
             string[] strSplit = strText.Split(',');

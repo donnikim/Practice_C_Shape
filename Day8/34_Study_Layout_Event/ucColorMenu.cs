@@ -17,8 +17,11 @@ namespace _34_Study_Layout_Event
         public delegate void delColorSender(object oSender, Color oColor);
         public event delColorSender eColorSender;
 
-        // 2) 
+        // 2) 기본 EventHandler
+        public EventHandler oColorEventHandler;
 
+        // 3) 제네릭 형태의 delegate 사용
+        public event Action<Button, Color> eColorAction;
 
         public ucColorMenu()
         {
@@ -33,6 +36,57 @@ namespace _34_Study_Layout_Event
             {
                 pcolor.BackColor = cDialogColor.Color;
             }
+        }
+
+        public string fButtonColorChange(object sender)
+        {
+            string strResult = string.Empty;
+            string strbtnName = string.Empty;
+
+            ucPanel oPanel = (ucPanel)sender;
+
+
+            switch(oPanel.Name)
+            {
+                case "ucPanelTop":
+                    strbtnName = "btn1";
+                    break;
+                case "ucPanelCenter1":
+                    strbtnName = "btn2";
+                    break;
+                case "ucPanelCenter2":
+                    strbtnName = "btn3";
+                    break;
+                case "ucPanelRight":
+                    strbtnName = "btn4";
+                    break;
+                default:
+                    break;
+            }
+            strResult = fBtnSearch(strbtnName, oPanel.BackColor, oPanel.Name);
+            return strResult;
+        }
+
+        private string fBtnSearch(string strButtonName, Color oColor, string strPanelName)
+        {
+            string strResult = string.Empty;
+
+            foreach (var oItem in flpMenu.Controls)
+            {
+                if (oItem is Button) 
+                {
+                    Button obtn = oItem as Button;
+
+                    if (obtn.Name.Equals(strButtonName))
+                    {
+                        obtn.BackColor = oColor;
+                        strResult = string.Format("{0} Panel DubleClick, {1}의 색상을 {2}로 변경", strPanelName, strButtonName, oColor.ToString());
+                        return strResult;
+                    }
+                }
+                
+            }
+            return null;
         }
 
         private void ucColorMenu_Load(object sender, EventArgs e)
@@ -54,7 +108,16 @@ namespace _34_Study_Layout_Event
 
         private void Obtn_Click(object? sender, EventArgs e)
         {
-            eColorSender(sender, pcolor.BackColor);
+            // 1) Delegate Event 선언
+            // eColorSender(sender, pcolor.BackColor);
+
+            // 2) 기본 EventHandler
+            // oColorEventHandler(sender, e);
+
+            // 3) 제네릭 형태의 delegate 사용
+            eColorAction((Button)sender,pcolor.BackColor);
         }
+
+
     }
 }

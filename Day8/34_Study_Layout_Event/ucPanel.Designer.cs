@@ -40,6 +40,7 @@
             lblPanel.TabIndex = 0;
             lblPanel.Text = "(0,0)";
             lblPanel.TextAlign = ContentAlignment.MiddleCenter;
+            lblPanel.MouseDoubleClick += lbl_DoubleClick;
             // 
             // ucPanel
             // 
@@ -47,8 +48,9 @@
             AutoScaleMode = AutoScaleMode.Font;
             Controls.Add(lblPanel);
             Name = "ucPanel";
+            SizeChanged += Panel_SizeChanged;
+            DoubleClick += UcPanel_DoubleClick;
             ResumeLayout(false);
-            this.SizeChanged += Panel_SizeChanged;
         }
 
         #endregion

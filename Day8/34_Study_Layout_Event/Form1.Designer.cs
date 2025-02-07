@@ -32,10 +32,10 @@
             ucColorMenu1 = new ucColorMenu();
             tableLayoutPanel1 = new TableLayoutPanel();
             tableLayoutPanel2 = new TableLayoutPanel();
-            ucPanel3 = new ucPanel();
-            ucPanel4 = new ucPanel();
-            ucPanel5 = new ucPanel();
-            ucPanel2 = new ucPanel();
+            ucPanelCenter1 = new ucPanel();
+            ucPanelCenter2 = new ucPanel();
+            ucPanelRight = new ucPanel();
+            ucPanelTop = new ucPanel();
             listBox1 = new ListBox();
             ((System.ComponentModel.ISupportInitialize)splitContainer1).BeginInit();
             splitContainer1.Panel1.SuspendLayout();
@@ -49,6 +49,7 @@
             // 
             splitContainer1.Dock = DockStyle.Fill;
             splitContainer1.Location = new Point(0, 0);
+            splitContainer1.Margin = new Padding(0);
             splitContainer1.Name = "splitContainer1";
             // 
             // splitContainer1.Panel1
@@ -75,10 +76,11 @@
             tableLayoutPanel1.ColumnCount = 1;
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 100F));
             tableLayoutPanel1.Controls.Add(tableLayoutPanel2, 0, 1);
-            tableLayoutPanel1.Controls.Add(ucPanel2, 0, 0);
+            tableLayoutPanel1.Controls.Add(ucPanelTop, 0, 0);
             tableLayoutPanel1.Controls.Add(listBox1, 0, 2);
             tableLayoutPanel1.Dock = DockStyle.Fill;
             tableLayoutPanel1.Location = new Point(0, 0);
+            tableLayoutPanel1.Margin = new Padding(0);
             tableLayoutPanel1.Name = "tableLayoutPanel1";
             tableLayoutPanel1.RowCount = 3;
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 25F));
@@ -92,59 +94,61 @@
             tableLayoutPanel2.ColumnCount = 2;
             tableLayoutPanel2.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
             tableLayoutPanel2.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
-            tableLayoutPanel2.Controls.Add(ucPanel3, 0, 0);
-            tableLayoutPanel2.Controls.Add(ucPanel4, 0, 1);
-            tableLayoutPanel2.Controls.Add(ucPanel5, 1, 0);
+            tableLayoutPanel2.Controls.Add(ucPanelCenter1, 0, 0);
+            tableLayoutPanel2.Controls.Add(ucPanelCenter2, 0, 1);
+            tableLayoutPanel2.Controls.Add(ucPanelRight, 1, 0);
             tableLayoutPanel2.Dock = DockStyle.Fill;
-            tableLayoutPanel2.Location = new Point(3, 115);
+            tableLayoutPanel2.Location = new Point(0, 112);
+            tableLayoutPanel2.Margin = new Padding(0);
             tableLayoutPanel2.Name = "tableLayoutPanel2";
             tableLayoutPanel2.RowCount = 2;
             tableLayoutPanel2.RowStyles.Add(new RowStyle(SizeType.Percent, 50F));
             tableLayoutPanel2.RowStyles.Add(new RowStyle(SizeType.Percent, 50F));
-            tableLayoutPanel2.Size = new Size(660, 219);
+            tableLayoutPanel2.Size = new Size(666, 225);
             tableLayoutPanel2.TabIndex = 0;
             // 
-            // ucPanel3
+            // ucPanelCenter1
             // 
-            ucPanel3.Dock = DockStyle.Fill;
-            ucPanel3.Location = new Point(3, 3);
-            ucPanel3.Name = "ucPanel3";
-            ucPanel3.Size = new Size(324, 103);
-            ucPanel3.TabIndex = 0;
+            ucPanelCenter1.Dock = DockStyle.Fill;
+            ucPanelCenter1.Location = new Point(3, 3);
+            ucPanelCenter1.Name = "ucPanelCenter1";
+            ucPanelCenter1.Size = new Size(327, 106);
+            ucPanelCenter1.TabIndex = 0;
             // 
-            // ucPanel4
+            // ucPanelCenter2
             // 
-            ucPanel4.Dock = DockStyle.Fill;
-            ucPanel4.Location = new Point(3, 112);
-            ucPanel4.Name = "ucPanel4";
-            ucPanel4.Size = new Size(324, 104);
-            ucPanel4.TabIndex = 1;
+            ucPanelCenter2.Dock = DockStyle.Fill;
+            ucPanelCenter2.Location = new Point(3, 115);
+            ucPanelCenter2.Name = "ucPanelCenter2";
+            ucPanelCenter2.Size = new Size(327, 107);
+            ucPanelCenter2.TabIndex = 1;
             // 
-            // ucPanel5
+            // ucPanelRight
             // 
-            ucPanel5.Dock = DockStyle.Fill;
-            ucPanel5.Location = new Point(333, 3);
-            ucPanel5.Name = "ucPanel5";
-            tableLayoutPanel2.SetRowSpan(ucPanel5, 2);
-            ucPanel5.Size = new Size(324, 213);
-            ucPanel5.TabIndex = 2;
+            ucPanelRight.Dock = DockStyle.Fill;
+            ucPanelRight.Location = new Point(336, 3);
+            ucPanelRight.Name = "ucPanelRight";
+            tableLayoutPanel2.SetRowSpan(ucPanelRight, 2);
+            ucPanelRight.Size = new Size(327, 219);
+            ucPanelRight.TabIndex = 2;
             // 
-            // ucPanel2
+            // ucPanelTop
             // 
-            ucPanel2.Dock = DockStyle.Fill;
-            ucPanel2.Location = new Point(3, 3);
-            ucPanel2.Name = "ucPanel2";
-            ucPanel2.Size = new Size(660, 106);
-            ucPanel2.TabIndex = 1;
+            ucPanelTop.Dock = DockStyle.Fill;
+            ucPanelTop.Location = new Point(3, 3);
+            ucPanelTop.Name = "ucPanelTop";
+            ucPanelTop.Size = new Size(660, 106);
+            ucPanelTop.TabIndex = 1;
             // 
             // listBox1
             // 
             listBox1.Dock = DockStyle.Fill;
             listBox1.FormattingEnabled = true;
             listBox1.ItemHeight = 15;
-            listBox1.Location = new Point(3, 340);
+            listBox1.Location = new Point(0, 337);
+            listBox1.Margin = new Padding(0);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(660, 107);
+            listBox1.Size = new Size(666, 113);
             listBox1.TabIndex = 2;
             // 
             // Form1
@@ -170,10 +174,10 @@
         private SplitContainer splitContainer1;
         private TableLayoutPanel tableLayoutPanel1;
         private TableLayoutPanel tableLayoutPanel2;
-        private ucPanel ucPanel3;
-        private ucPanel ucPanel4;
-        private ucPanel ucPanel5;
-        private ucPanel ucPanel2;
+        private ucPanel ucPanelCenter1;
+        private ucPanel ucPanelCenter2;
+        private ucPanel ucPanelRight;
+        private ucPanel ucPanelTop;
         private ListBox listBox1;
         private ucColorMenu ucColorMenu1;
     }
