@@ -1,0 +1,10 @@
+C:\Users\dongil\Desktop\C#_prac\Day10\39_Study_User32_CopyAndPaste\39_Study_User32_CopyAndPaste\bin\Debug\39_Study_User32_CopyAndPaste.exe.config
+C:\Users\dongil\Desktop\C#_prac\Day10\39_Study_User32_CopyAndPaste\39_Study_User32_CopyAndPaste\bin\Debug\39_Study_User32_CopyAndPaste.exe
+C:\Users\dongil\Desktop\C#_prac\Day10\39_Study_User32_CopyAndPaste\39_Study_User32_CopyAndPaste\bin\Debug\39_Study_User32_CopyAndPaste.pdb
+C:\Users\dongil\Desktop\C#_prac\Day10\39_Study_User32_CopyAndPaste\39_Study_User32_CopyAndPaste\obj\Debug\39_Study_User32_CopyAndPaste.csprojAssemblyReference.cache
+C:\Users\dongil\Desktop\C#_prac\Day10\39_Study_User32_CopyAndPaste\39_Study_User32_CopyAndPaste\obj\Debug\_39_Study_User32_CopyAndPaste.Form1.resources
+C:\Users\dongil\Desktop\C#_prac\Day10\39_Study_User32_CopyAndPaste\39_Study_User32_CopyAndPaste\obj\Debug\_39_Study_User32_CopyAndPaste.Properties.Resources.resources
+C:\Users\dongil\Desktop\C#_prac\Day10\39_Study_User32_CopyAndPaste\39_Study_User32_CopyAndPaste\obj\Debug\39_Study_User32_CopyAndPaste.csproj.GenerateResource.cache
+C:\Users\dongil\Desktop\C#_prac\Day10\39_Study_User32_CopyAndPaste\39_Study_User32_CopyAndPaste\obj\Debug\39_Study_User32_CopyAndPaste.csproj.CoreCompileInputs.cache
+C:\Users\dongil\Desktop\C#_prac\Day10\39_Study_User32_CopyAndPaste\39_Study_User32_CopyAndPaste\obj\Debug\39_Study_User32_CopyAndPaste.exe
+C:\Users\dongil\Desktop\C#_prac\Day10\39_Study_User32_CopyAndPaste\39_Study_User32_CopyAndPaste\obj\Debug\39_Study_User32_CopyAndPaste.pdb
